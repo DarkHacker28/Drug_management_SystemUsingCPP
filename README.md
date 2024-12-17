@@ -65,7 +65,7 @@ A browser (e.g., Chrome, Firefox) for running the front-end
 Steps
 Clone the repository
 
-git clone https://github.com/yourusername/Drug-Management-System.git
+git clone https://github.com/DarkHacker28/Drug_management_SystemUsingCPP
 
 cd Drug-Management-System
 Compile the C++ Code
